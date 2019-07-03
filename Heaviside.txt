@@ -11,7 +11,7 @@ D^2 u(x)+u(x)=f(x) \\
 \\
 \displaystyle u(x)=\frac{f(x)}{(D+i)(D-i)}\\
 \\
-\displaystyle u(x)=\frac{1}{2i}\left\{\frac{f(x)}{(D-i)}-\frac{f(x)}{(D+i)}\right\} \\
+\displaystyle u(x)=\frac{1}{2i}\left\{\frac{f(x)}{D-i}-\frac{f(x)}{D+i}\right\} \\
 \\
 \displaystyle u(x)=\frac{1}{2i}\left\{e^{ix}\left(\int e^{-ix}f(x)dx+C_1\right)-e^{-ix}\left(\int e^{ix}f(x)dx+C_2\right)\right\}
 \end{array} 
